@@ -31,12 +31,9 @@ The Rider Intention Prediction (RIP) project is part of the ICPR 2024 competitio
 - Preparing method description documentation detailing the approach, model selection, and results.
 
 ## Repository Structure
-- `/data`: Contains scripts for data loading and preprocessing.
-- `/models`: Includes model architectures and training scripts.
-- `/notebooks`: Jupyter notebooks for exploratory data analysis and model experimentation.
-- `/results`: Stores validation results, confusion matrices, and other evaluation artifacts.
-- `README.md`: Detailed project overview, setup instructions, and usage guide.
-- `LICENSE`: The chosen license for the repository.
+- `task1_with_testset.ipynb`: Jupyter notebook for Task 1, including model training and testing on the test set.
+- `task2_with_testset.ipynb`: Jupyter notebook for Task 2, including model training and testing on the test set.
+- `README.md`: This file, providing a detailed project overview, setup instructions, and usage guide.
 
 ## Usage
 This repository provides all the necessary code and documentation to reproduce our results and build upon our work. Users can follow the instructions in this `README.md` to set up the environment, preprocess the data, train the model, and evaluate its performance.
